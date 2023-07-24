@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8415C9B22A6EE8DA005C6D11 /* TempPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8415C9B12A6EE8D9005C6D11 /* TempPokemon.swift */; };
 		844B180E2A6EB06D00FF49C2 /* Dex3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844B180D2A6EB06D00FF49C2 /* Dex3App.swift */; };
 		844B18102A6EB06D00FF49C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844B180F2A6EB06D00FF49C2 /* ContentView.swift */; };
 		844B18122A6EB07400FF49C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844B18112A6EB07400FF49C2 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8415C9B12A6EE8D9005C6D11 /* TempPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempPokemon.swift; sourceTree = "<group>"; };
 		844B180A2A6EB06D00FF49C2 /* Dex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		844B180D2A6EB06D00FF49C2 /* Dex3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dex3App.swift; sourceTree = "<group>"; };
 		844B180F2A6EB06D00FF49C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				844B180D2A6EB06D00FF49C2 /* Dex3App.swift */,
 				844B180F2A6EB06D00FF49C2 /* ContentView.swift */,
+				8415C9B12A6EE8D9005C6D11 /* TempPokemon.swift */,
 				844B18162A6EB07400FF49C2 /* Persistence.swift */,
 				844B18182A6EB07400FF49C2 /* Dex3.xcdatamodeld */,
 				844B18112A6EB07400FF49C2 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				844B18172A6EB07400FF49C2 /* Persistence.swift in Sources */,
 				844B181A2A6EB07400FF49C2 /* Dex3.xcdatamodeld in Sources */,
+				8415C9B22A6EE8DA005C6D11 /* TempPokemon.swift in Sources */,
 				844B18102A6EB06D00FF49C2 /* ContentView.swift in Sources */,
 				844B180E2A6EB06D00FF49C2 /* Dex3App.swift in Sources */,
 			);
